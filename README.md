@@ -3,6 +3,8 @@ Welcome to the Online Ticket Booking System! This repository contains a demonstr
 
 This system allows users to browse events, select seats, make payments, and book tickets effortlessly. The intuitive UI and seamless workflow provide an excellent booking experience.
 
+this project is completely based on mern stack development
+
 
 🎥 Key Features
 ✔️ User Registration & Login – Secure authentication system.
@@ -11,3 +13,6 @@ This system allows users to browse events, select seats, make payments, and book
 ✔️ Watch Trailer – Preview the movie before booking.
 ✔️ Cast & Crew Details – Get information on the actors & directors.
 ✔️ Booking Confirmation & History – Users can view past bookings.
+
+
+have given the output screenshots in this repository
